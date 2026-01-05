@@ -1,5 +1,10 @@
 <div align="center">
 
+<p align="center">
+  <img src="assets/logo.png" width="100%">
+</p>
+
+
 # 𝗕𝗮𝗱𝗺𝗶𝗻𝘁𝗼𝗻-𝗩𝗶𝘀𝗶𝗼𝗻𝗔𝗜
 ### AI-Powered Badminton Performance Analysis System
 
