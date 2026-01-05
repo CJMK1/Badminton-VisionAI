@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 <p align="center">
-  <img src="assets/logo.png" width="50%">
+  <img src="assets/logo.png" width="48%">
 </p>
 
 **Real-time computer vision analytics for badminton**
