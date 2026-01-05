@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𝗕𝗮𝗱𝗺𝗶𝗻𝘁𝗼𝗻-𝗩𝗶𝘀𝗶𝗼𝗻𝗔𝗜
+# 𝘽𝙖𝙙𝙢𝙞𝙣𝙩𝙤𝙣-𝙑𝙞𝙨𝙞𝙤𝙣𝘼𝙄
 ### AI-Powered Badminton Performance Analysis System
 
 ![YOLO](https://img.shields.io/badge/Powered%20by-Ultralytics%20YOLO-blue)
