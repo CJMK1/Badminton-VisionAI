@@ -12,7 +12,7 @@
   <img src="assets/logo.png" width="48%">
 </p>
 
-**Real-time computer vision analytics for badminton**
+- **Real-time computer vision analytics for badminton**
 
 Player & shuttlecock tracking • Mini-court projection • Shot type & power analysis • Streamlit dashboards
 
