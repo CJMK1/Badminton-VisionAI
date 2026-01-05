@@ -1,31 +1,22 @@
 <div align="center">
-  
-    ```text
-    ██████╗  █████╗ ██████╗ ███╗   ███╗██╗███╗   ██╗████████╗ ██████╗ ███╗   ██╗
-    ██╔══██╗██╔══██╗██╔══██╗████╗ ████║██║████╗  ██║╚══██╔══╝██╔═══██╗████╗  ██║
-    ██████╔╝███████║██║  ██║██╔████╔██║██║██╔██╗ ██║   ██║   ██║   ██║██╔██╗ ██║
-    ██╔══██╗██╔══██║██║  ██║██║╚██╔╝██║██║██║╚██╗██║   ██║   ██║   ██║██║╚██╗██║
-    ██████╔╝██║  ██║██████╔╝██║ ╚═╝ ██║██║██║ ╚████║   ██║   ╚██████╔╝██║ ╚████║
-    ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚═╝  ╚═══╝
-    ```
 
-<h1 style="color:#0A66C2; margin-bottom:0;">
-𝗕𝗮𝗱𝗺𝗶𝗻𝘁𝗼𝗻-𝗩𝗶𝘀𝗶𝗼𝗻𝗔𝗜
-</h1>
+# 𝗕𝗮𝗱𝗺𝗶𝗻𝘁𝗼𝗻-𝗩𝗶𝘀𝗶𝗼𝗻𝗔𝗜
+### AI-Powered Badminton Performance Analysis System
 
-<h3 style="color:#444; margin-top:6px;">
-AI-Powered Badminton Performance Analysis System
-</h3>
+![YOLO](https://img.shields.io/badge/Powered%20by-Ultralytics%20YOLO-blue)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Tracking-green)
+![Dashboard](https://img.shields.io/badge/Dashboard-Streamlit-red)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
-<p style="color:#2E7D32; font-weight:600;">
-Real-time computer vision analytics for badminton
-</p>
+**Real-time computer vision analytics for badminton**
 
-<p style="color:#555;">
-Player & shuttlecock tracking &nbsp;•&nbsp;
-Mini-court projection &nbsp;•&nbsp;
-Shot type & power analysis &nbsp;•&nbsp;
-Streamlit dashboards
-</p>
+Player & shuttlecock tracking • Mini-court projection • Shot type & power analysis • Streamlit dashboards
 
 </div>
+
+---
+
+## Overview
+
+**Badminton-VisionAI** is an AI-powered system for badminton performance analysis built on modern computer vision techniques.  
+It enables **real-time player and shuttlecock tracking**, **homography-based mini-court projection**, **shot type and power analysis**, and **interactive performance visualization** through a Streamlit dashboard.
